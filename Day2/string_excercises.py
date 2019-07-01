@@ -4,3 +4,4 @@ nazwisko = "Kowalski"
 
 # dodalem komentarz
 print(f'Witaj, {imie} {nazwisko}')
+
